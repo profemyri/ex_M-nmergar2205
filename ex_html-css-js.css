@@ -1,13 +1,60 @@
 body {
-   color:yellow;
+            
+background-color: #faf3e0;
+padding:40px;
+color:#2c3e50;
+font-family: Arial, sans-serif;
+            
+            
 }
-
 h1 {
-   ...........
+            
+text-align:center;   
+color:#0077b6;
+font-size: 32px;
 }
+        
+h2 {
+font-size:24px;
+color:#f4a261;
 
+}
+        
+img {
+width:100%
+}
+        
 form {
-   ...........
+            
+padding:50px;
+width:300px;
+background-color: #ffffff;
+            
+            
+            
 }
+        
+input, select, textArea{
+            
+border:1px solid #eaeaea;
+}
+        
+button {
+            
+background-color:#0077b6;
+color:white;
+text-align:center;
+}
+        
+textarea, placeholder {
+            
+color:#f4a261;
+                    
+}
+        
+* {
+margin: 15px;
+padding: 10px;
+border-radius: 10px;
 
-............
+}
